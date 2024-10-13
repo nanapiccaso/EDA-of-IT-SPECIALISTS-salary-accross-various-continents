@@ -1,0 +1,219 @@
+ID,Position,Specialization,Continent,Experience ,Salary,Gender,Age,Education,Type_of_ employment,Number_of_ projects,Job_satisfaction
+1,Developer,Mobile,Europe,2,354110.1,Male,20,Bachelor's,Full-time,5,4.2
+2,Developer,Mobile,Australia,4,944110,Male,28,Bachelor's,Freelance,2,5
+3,Developer,Mobile,North America,4,908764,Male,26,Bachelor's,Full-time,7,3.2
+4,Developer,Mobile,South America,5,926124,Male,30,None,Full-time,8,4.5
+5,Developer,Mobile,Europe,4,736708,Male,24,Bachelor's,Part-time,11,4.3
+6,Developer,Mobile,Europe,2,1646721,Male,22,Bachelor's,Part-time,10,4.6
+7,Developer,Mobile,Europe,10,1392960,Male,35,Bachelor's,Part-time,20,5
+8,Developer,Mobile,Europe,2,1404773,Male,30,Bachelor's,Remote,5,3.9
+9,Developer,Mobile,Europe,1,1507343,Male,24,Master's,Part-time,6,3.8
+10,Developer,Mobile,Europe,7,1558095,Male,28,Bachelor's,Freelance,16,4.4
+11,Developer,Mobile,Europe,4,2557843,Male,24,Bachelor's,Remote,10,4.5
+12,Developer,Mobile,Europe,6,1510081,Female,31,None,Part-time,14,4.8
+13,Developer,Mobile,Australia,4,732821,Male,30,Master's,Part-time,9,5
+14,Developer,Mobile,Australia,5,1221750,Male,35,Bachelor's,Part-time,14,3.2
+15,Developer,Mobile,Europe,3,1739484,Male,25,Master's,Part-time,9,3.4
+16,Developer,Web,Europe,5,1124939,Male,26,Bachelor's,Part-time,4,4.5
+17,Developer,Web,Europe,7,1630396,Male,28,None,Part-time,14,4
+18,Developer,Web,Europe,6,1009436,Male,27,Bachelor's,Full-time,8,4
+19,Developer,Web,Europe,5,550980,Male,32,Bachelor's,Full-time,12,3.9
+20,Developer,Web,Europe,5,1870000,Male,38,Bachelor's,Full-time,10,3.9
+21,Developer,Web,North America,3,758376,Male,40,Master's,Full-time,10,3.8
+22,Developer,Web,North America,6,1556575,Male,29,Master's,Part-time,2,3.8
+23,Developer,Web,North America,5,1194327,Male,25,Bachelor's,Full-time,7,3.7
+24,Developer,Web,North America,4,1470000,Male,24,Bachelor's,Full-time,5,3.7
+25,Developer,Web,North America,3,1549942,Female,21,None,Full-time,4,3.6
+26,Developer,Web,North America,1,1009436,Male,24,Master's,Full-time,2,3.6
+27,Developer,Web,North America,5,1541572,Female,28,Bachelor's,Part-time,2,3.6
+28,Developer,Web,North America,5,811182,Male,24,Bachelor's,Full-time,9,3.5
+29,Developer,Web,South America,8,1205874,Male,36,None,Full-time,2,4.5
+30,Developer,Web,North America,3,727111,Male,33,Bachelor's,Full-time,6,3.4
+31,Developer,Web,North America,3,1923257,Male,26,Bachelor's,Full-time,6,3.4
+32,Developer,Web,North America,2,2143501,Male,24,Bachelor's,Full-time,10,3.3
+33,Developer,Web,South America,2,1926965,Male,21,Bachelor's,Full-time,9,5
+34,Developer,Web,South America,2,495252,Male,24,Master's,Full-time,8,3.2
+35,Developer,Desktop,South America,6,1294984,Male,28,Bachelor's,Freelance,3,4.5
+36,Developer,Desktop,South America,2,2334960,Male,24,Bachelor's,Full-time,15,4.3
+37,Developer,Desktop,South America,2,2267616,Female,36,None,Part-time,12,4.6
+38,Developer,Desktop,South America,3,1366992,Male,25,Master's,Full-time,15,5
+39,Developer,Desktop,South America,1,1453427,Female,21,Bachelor's,Full-time,15,3.9
+40,Developer,Desktop,Europe,5,1458032,Male,45,Master's,Full-time,7,3.8
+41,Developer,Desktop,Australia,3,1730166,Male,26,Bachelor's,Full-time,8,4.4
+42,Developer,Desktop,North America,2,658109,Male,22,None,Full-time,7,4.5
+43,Developer,Desktop,Europe,5,794460,Male,27,Bachelor's,Full-time,10,4.8
+44,Developer,Desktop,Australia,3,2567381,Male,23,Bachelor's,Part-time,15,4.7
+45,Developer,Desktop,North America,5,1637231,Male,36,Bachelor's,Full-time,14,4.8
+46,Developer,Desktop,South America,5,900000,Male,54,Master's,Full-time,6,4.9
+47,Data_Analyst,Data_Science,Europe,2,902935,Male,25,Master's,Full-time,8,4.9
+48,Data_Analyst,Data_Science,Europe,5,970782,Male,26,Bachelor's,Full-time,14,5
+49,Data_Analyst,Data_Science,Europe,3,1050000,Male,25,Bachelor's,Full-time,11,4.2
+50,Data_Analyst,Data_Science,Europe,1,2119584,Male,21,None,Full-time,3,4.3
+51,Data_Analyst,Data_Science,South America,2,1687111,Female,22,Master's,Freelance,4,4.6
+52,Data_Analyst,Data_Science,South America,2,1465641,Male,34,Bachelor's,Full-time,13,3.7
+53,Data_Analyst,Data_Science,South America,6,600000,Male,39,Bachelor's,Freelance,14,4.5
+54,Data_Analyst,Data_Science,South America,1,1805869,Male,30,Bachelor's,Full-time,13,4.6
+55,Data_Analyst,Data_Science,Europe,1,2624063,Male,26,Master's,Full-time,5,4.4
+56,Data_Analyst,Data_Science,Australia,2,955297,Male,27,Master's,Part-time,5,4.5
+57,Data_Analyst,Data_Science,North America,2,761478,Male,22,Bachelor's,Part-time,7,4.8
+58,Data_Analyst,Data_Science,Europe,1,2805476,Male,22,Bachelor's,Part-time,2,4.7
+59,Data_Analyst,Data_Science,South America,5,969112,Male,34,Bachelor's,Remote,6,4.8
+60,Data_Analyst,Data_Science,South America,3,450979,Male,39,Bachelor's,Part-time,9,4.9
+61,Data_Analyst,Data_Science,South America,6,1338795,Female,30,Bachelor's,Freelance,8,4.9
+62,Data_Analyst,Data_Science,South America,4,1040493,Female,26,Master's,Remote,3,5
+63,Data_Analyst,Data_Science,Europe,2,1291549,Male,23,Master's,Part-time,7,4.2
+64,Data_Analyst,Data_Science,Australia,2,599136,Male,22,Bachelor's,Part-time,3,4
+65,Data_Analyst,Data_Science,North America,1,1663189,Male,24,None,Part-time,4,3.6
+66,Data_Analyst,Data_Science,Europe,4,1323387,Female,24,Bachelor's,Part-time,10,3.2
+67,Data_Analyst,Data_Science,Australia,3,1246266,Female,26,None,Part-time,3,2.9
+68,Data_Analyst,Data_Science,North America,2,494147,Male,22,Bachelor's,Part-time,2,2.5
+69,Data_Analyst,Data_Science,South America,5,1892758,Male,25,Master's,Full-time,5,3.6
+70,Data_Analyst,Data_Science,Europe,6,1572054,Male,26,Bachelor's,Full-time,2,3.5
+71,Data_Analyst,Data_Science,Europe,5,2024533,Male,25,None,Full-time,11,3.4
+72,Data_Analyst,Data_Science,Europe,2,1927564,Male,22,Bachelor's,Full-time,7,3.4
+73,Data_Analyst,Data_Science,Europe,2,800000,Male,21,None,Part-time,13,3.3
+74,Data_Analyst,Data_Science,North America,2,2009790,Male,24,Bachelor's,Full-time,4,5
+75,Data_Analyst,Data_Science,North America,1,831462,Female,23,Master's,Full-time,11,4.2
+76,Data_Analyst,Data_Science,North America,6,516323,Female,29,Bachelor's,Full-time,13,4.8
+77,QA_Engineer,Testing,North America,2,2333241,Male,28,None,Full-time,15,4.1
+78,QA_Engineer,Testing,North America,3,1200000,Male,31,Bachelor's,Full-time,7,3.8
+79,QA_Engineer,Testing,North America,4,2006522,Male,35,None,Freelance,11,3.6
+80,QA_Engineer,Testing,North America,4,2160000,Female,24,Bachelor's,Full-time,10,3.4
+81,QA_Engineer,Testing,North America,4,1341316,Female,26,None,Full-time,6,3.1
+82,QA_Engineer,Testing,North America,6,1634105,Female,27,Bachelor's,Part-time,3,4.2
+83,QA_Engineer,Testing,North America,5,1389256,Female,28,None,Part-time,3,4.4
+84,QA_Engineer,Testing,North America,1,1000000,Male,23,Bachelor's,Part-time,9,4.9
+85,QA_Engineer,Testing,North America,6,1231116,Male,27,None,Remote,2,4.9
+86,QA_Engineer,Testing,North America,6,2352941,Male,28,Bachelor's,Part-time,11,5
+87,QA_Engineer,Testing,North America,1,744551,Female,23,None,Freelance,7,4.2
+88,QA_Engineer,Testing,North America,2,3014686,Female,24,Bachelor's,Remote,13,4
+89,QA_Engineer,Testing,North America,6,1357204,Female,26,None,Part-time,4,3.6
+90,QA_Engineer,Testing,South America,5,1053196,Female,30,Bachelor's,Part-time,11,3.2
+91,QA_Engineer,Testing,Europe,6,1337606,Male,37,None,Part-time,13,2.9
+92,QA_Engineer,Testing,Europe,1,585900,Male,20,Bachelor's,Part-time,15,2.5
+93,QA_Engineer,Testing,Europe,6,395436,Male,36,None,Part-time,7,3.6
+94,QA_Engineer,Testing,Europe,3,1649930,Female,33,Bachelor's,Part-time,11,3.5
+95,QA_Engineer,Testing,North America,5,1138060,Female,26,None,Full-time,10,3.4
+96,QA_Engineer,Testing,North America,3,1612744,Female,25,Master's,Full-time,6,3.4
+97,QA_Engineer,Testing,North America,5,432776,Male,24,Bachelor's,Full-time,3,4.9
+98,QA_Engineer,Testing,North America,4,987471,Male,24,None,Full-time,3,4.9
+99,QA_Engineer,Testing,North America,5,1512297,Male,25,Bachelor's,Part-time,9,5
+100,QA_Engineer,Testing,South America,2,1752935,Female,19,None,Full-time,2,4.2
+101,QA_Engineer,Testing,Europe,5,1197944,Female,26,None,Full-time,11,4
+102,QA_Engineer,Testing,Europe,5,923544,Female,25,Bachelor's,Full-time,7,3.6
+103,QA_Engineer,Testing,Europe,1,587146,Female,19,None,Full-time,13,3.2
+104,QA_Engineer,Testing,Europe,2,977543,Male,26,Master's,Full-time,4,2.9
+105,QA_Engineer,Testing,North America,5,649755,Male,25,Bachelor's,Full-time,11,2.5
+106,QA_Engineer,Testing,South America,5,970782,Male,24,Bachelor's,Part-time,13,3.6
+107,QA_Engineer,Testing,Europe,3,1050000,Female,25,Bachelor's,Full-time,15,3.5
+108,QA_Engineer,Testing,Europe,5,2119584,Female,29,None,Freelance,7,3.4
+109,QA_Engineer,Testing,Europe,1,1687111,Female,21,None,Full-time,11,3.4
+110,Developer,Mobile,Europe,2,354110.1,Male,20,Bachelor's,Full-time,5,4.2
+111,Developer,Mobile,North America,4,944110,Male,28,Bachelor's,Freelance,2,5
+112,Developer,Mobile,North America,4,908764,Male,26,Bachelor's,Full-time,7,3.2
+113,Developer,Mobile,North America,5,926124,Male,30,None,Full-time,8,4.5
+114,Developer,Mobile,North America,4,736708,Male,24,Bachelor's,Part-time,11,4.3
+115,Developer,Mobile,North America,2,1646721,Male,22,Bachelor's,Part-time,10,4.6
+116,Developer,Mobile,North America,10,1392960,Male,35,Bachelor's,Part-time,20,5
+117,Developer,Mobile,Europe,2,1404773,Male,30,Bachelor's,Remote,5,3.9
+118,Developer,Mobile,Europe,1,1507343,Male,24,Master's,Part-time,6,3.8
+119,Developer,Mobile,Europe,7,1558095,Male,28,Bachelor's,Freelance,16,4.4
+120,Developer,Mobile,Europe,4,2557843,Male,24,Bachelor's,Remote,10,4.5
+121,Developer,Mobile,South America,6,1510081,Female,31,None,Part-time,14,4.8
+122,Developer,Mobile,South America,4,732821,Male,30,Master's,Part-time,9,5
+123,Developer,Mobile,South America,5,1221750,Male,35,Bachelor's,Part-time,14,3.2
+124,Developer,Mobile,South America,3,1739484,Male,25,Master's,Part-time,9,3.4
+125,Developer,Web,Europe,5,1124939,Male,26,Bachelor's,Part-time,4,4.5
+126,Developer,Web,Australia,7,1630396,Male,28,None,Part-time,14,4
+127,Developer,Web,North America,6,1009436,Male,27,Bachelor's,Full-time,8,4
+128,Developer,Web,Europe,5,550980,Male,32,Bachelor's,Full-time,12,3.9
+129,Developer,Web,South America,5,1870000,Male,38,Bachelor's,Full-time,10,3.9
+130,Developer,Web,North America,3,758376,Male,40,Master's,Full-time,10,3.8
+131,Developer,Web,North America,6,1556575,Male,29,Master's,Part-time,2,3.8
+132,Developer,Web,North America,5,1194327,Male,25,Bachelor's,Full-time,7,3.7
+133,Developer,Web,North America,4,1470000,Male,24,Bachelor's,Full-time,5,3.7
+134,Developer,Web,North America,3,1549942,Female,21,None,Full-time,4,3.6
+135,Developer,Web,North America,1,1009436,Male,24,Master's,Full-time,2,3.6
+136,Developer,Web,North America,5,1541572,Female,28,Bachelor's,Part-time,2,3.6
+137,Developer,Web,North America,5,811182,Male,24,Bachelor's,Full-time,9,3.5
+138,Developer,Web,North America,8,1205874,Male,36,None,Full-time,2,4.5
+139,Developer,Web,North America,3,727111,Male,33,Bachelor's,Full-time,6,3.4
+140,Developer,Web,North America,3,1923257,Male,26,Bachelor's,Full-time,6,3.4
+141,Developer,Web,Australia,2,2143501,Male,24,Bachelor's,Full-time,10,3.3
+142,Developer,Web,North America,2,1926965,Male,21,Bachelor's,Full-time,9,5
+143,Developer,Web,Europe,2,495252,Male,24,Master's,Full-time,8,3.2
+144,Developer,Desktop,South America,6,1294984,Male,28,Bachelor's,Freelance,3,4.5
+145,Developer,Desktop,North America,2,2334960,Male,24,Bachelor's,Full-time,15,4.3
+146,Developer,Desktop,North America,2,2267616,Female,36,None,Part-time,12,4.6
+147,Developer,Desktop,North America,3,1366992,Male,25,Master's,Full-time,15,5
+148,Developer,Desktop,North America,1,1453427,Female,21,Bachelor's,Full-time,15,3.9
+149,Developer,Desktop,North America,5,1458032,Male,45,Master's,Full-time,7,3.8
+150,Developer,Desktop,North America,3,1730166,Male,26,Bachelor's,Full-time,8,4.4
+151,Developer,Desktop,North America,2,658109,Male,22,None,Full-time,7,4.5
+152,Developer,Desktop,Australia,5,794460,Male,27,Bachelor's,Full-time,10,4.8
+153,Developer,Desktop,North America,3,2567381,Male,23,Bachelor's,Part-time,15,4.7
+154,Developer,Desktop,Europe,5,1637231,Male,36,Bachelor's,Full-time,14,4.8
+155,Developer,Desktop,South America,5,900000,Male,54,Master's,Full-time,6,4.9
+156,Data_Analyst,Data_Science,North America,2,902935,Male,25,Master's,Full-time,8,4.9
+157,Data_Analyst,Data_Science,North America,5,970782,Male,26,Bachelor's,Full-time,14,5
+158,Data_Analyst,Data_Science,North America,3,1050000,Male,25,Bachelor's,Full-time,11,4.2
+159,Data_Analyst,Data_Science,North America,1,2119584,Male,21,None,Full-time,3,4.3
+160,Data_Analyst,Data_Science,North America,2,1687111,Female,22,Master's,Freelance,4,4.6
+161,Data_Analyst,Data_Science,North America,2,1465641,Male,34,Bachelor's,Full-time,13,3.7
+162,Data_Analyst,Data_Science,North America,6,600000,Male,39,Bachelor's,Freelance,14,4.5
+163,Data_Analyst,Data_Science,North America,1,1805869,Male,30,Bachelor's,Full-time,13,4.6
+164,Data_Analyst,Data_Science,North America,1,2624063,Male,26,Master's,Full-time,5,4.4
+165,Data_Analyst,Data_Science,North America,2,955297,Male,27,Master's,Part-time,5,4.5
+166,Data_Analyst,Data_Science,North America,2,761478,Male,22,Bachelor's,Part-time,7,4.8
+167,Data_Analyst,Data_Science,North America,1,2805476,Male,22,Bachelor's,Part-time,2,4.7
+168,Data_Analyst,Data_Science,North America,5,969112,Male,34,Bachelor's,Remote,6,4.8
+169,Data_Analyst,Data_Science,Australia,3,450979,Male,39,Bachelor's,Part-time,9,4.9
+170,Data_Analyst,Data_Science,North America,6,1338795,Female,30,Bachelor's,Freelance,8,4.9
+171,Data_Analyst,Data_Science,Europe,4,1040493,Female,26,Master's,Remote,3,5
+172,Data_Analyst,Data_Science,South America,2,1291549,Male,23,Master's,Part-time,7,4.2
+173,Data_Analyst,Data_Science,North America,2,599136,Male,22,Bachelor's,Part-time,3,4
+174,Data_Analyst,Data_Science,North America,1,1663189,Male,24,None,Part-time,4,3.6
+175,Data_Analyst,Data_Science,North America,4,1323387,Female,24,Bachelor's,Part-time,10,3.2
+176,Data_Analyst,Data_Science,North America,3,1246266,Female,26,None,Part-time,3,2.9
+177,Data_Analyst,Data_Science,North America,2,494147,Male,22,Bachelor's,Part-time,2,2.5
+178,Data_Analyst,Data_Science,North America,5,1892758,Male,25,Master's,Full-time,5,3.6
+179,Data_Analyst,Data_Science,North America,6,1572054,Male,26,Bachelor's,Full-time,2,3.5
+180,Data_Analyst,Data_Science,North America,5,2024533,Male,25,None,Full-time,11,3.4
+181,Data_Analyst,Data_Science,North America,2,1927564,Male,22,Bachelor's,Full-time,7,3.4
+182,Data_Analyst,Data_Science,North America,2,800000,Male,21,None,Part-time,13,3.3
+183,Data_Analyst,Data_Science,North America,2,2009790,Male,24,Bachelor's,Full-time,4,5
+184,Data_Analyst,Data_Science,North America,1,831462,Female,23,Master's,Full-time,11,4.2
+185,Data_Analyst,Data_Science,North America,6,516323,Female,29,Bachelor's,Full-time,13,4.8
+186,QA_Engineer,Testing,North America,2,2333241,Male,28,None,Full-time,15,4.1
+187,QA_Engineer,Testing,North America,3,1200000,Male,31,Bachelor's,Full-time,7,3.8
+188,QA_Engineer,Testing,North America,4,2006522,Male,35,None,Freelance,11,3.6
+189,QA_Engineer,Testing,North America,4,2160000,Female,24,Bachelor's,Full-time,10,3.4
+190,QA_Engineer,Testing,North America,4,1341316,Female,26,None,Full-time,6,3.1
+191,QA_Engineer,Testing,North America,6,1634105,Female,27,Bachelor's,Part-time,3,4.2
+192,QA_Engineer,Testing,North America,5,1389256,Female,28,None,Part-time,3,4.4
+193,QA_Engineer,Testing,North America,1,1000000,Male,23,Bachelor's,Part-time,9,4.9
+194,QA_Engineer,Testing,North America,6,1231116,Male,27,None,Remote,10,4.9
+195,QA_Engineer,Testing,North America,6,2352941,Male,28,Bachelor's,Part-time,11,5
+196,QA_Engineer,Testing,North America,1,744551,Female,23,None,Freelance,7,4.2
+197,QA_Engineer,Testing,North America,2,3014686,Female,24,Bachelor's,Remote,13,4
+198,QA_Engineer,Testing,North America,6,1357204,Female,26,None,Part-time,4,3.6
+199,QA_Engineer,Testing,North America,5,1053196,Female,30,Bachelor's,Part-time,11,3.2
+200,QA_Engineer,Testing,Australia,6,1337606,Male,37,None,Part-time,13,2.9
+201,QA_Engineer,Testing,North America,1,585900,Male,20,Bachelor's,Part-time,15,2.5
+202,QA_Engineer,Testing,Europe,6,395436,Male,36,None,Part-time,7,3.6
+203,QA_Engineer,Testing,South America,3,1649930,Female,33,Bachelor's,Part-time,11,3.5
+204,QA_Engineer,Testing,North America,5,1138060,Female,26,None,Full-time,5,3.4
+205,QA_Engineer,Testing,North America,3,1612744,Female,25,Master's,Full-time,6,3.4
+206,QA_Engineer,Testing,North America,5,432776,Male,24,Bachelor's,Full-time,3,4.9
+207,QA_Engineer,Testing,North America,4,987471,Male,24,None,Full-time,3,4.9
+208,QA_Engineer,Testing,North America,5,1512297,Male,25,Bachelor's,Part-time,9,5
+209,QA_Engineer,Testing,North America,2,1752935,Female,19,None,Full-time,2,4.2
+210,QA_Engineer,Testing,North America,5,1197944,Female,26,None,Full-time,8,4
+211,QA_Engineer,Testing,North America,5,923544,Female,25,Bachelor's,Full-time,7,3.6
+212,QA_Engineer,Testing,North America,1,587146,Female,19,None,Full-time,1,3.2
+213,QA_Engineer,Testing,North America,2,977543,Male,26,Master's,Full-time,4,2.9
+214,QA_Engineer,Testing,North America,5,649755,Male,25,Bachelor's,Full-time,11,2.5
+215,QA_Engineer,Testing,North America,5,970782,Male,24,Bachelor's,Part-time,13,3.6
+216,QA_Engineer,Testing,North America,3,1050000,Female,25,Bachelor's,Full-time,15,3.5
+217,QA_Engineer,Testing,Australia,5,2119584,Female,29,None,Freelance,7,3.4
+218,QA_Engineer,Testing,North America,1,1687111,Female,21,None,Full-time,5,3.4
